@@ -1,3 +1,3 @@
-# Welocme to my Portfolio
+# Welcome to my Portfolio
 
 Hello World! This is my readme!
