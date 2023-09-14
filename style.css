@@ -111,9 +111,11 @@ section {
     max-width: 350px;
     margin-bottom: 1rem;
 
+    filter: grayscale(0%);
+
 }
 
-.about-img:hover {
+.about-image:hover {
     filter: grayscale(100%);
 }
 
