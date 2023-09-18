@@ -1,5 +1,6 @@
 :root {
-    --primary: teal;
+    /* --primary: #7395AE; */
+    --primary: #557A95;
     --spacing: 4rem;
 }
 
@@ -167,6 +168,8 @@ article {
 .article-img {
     margin-bottom: 2rem;
     max-width: 600px;
+    border: 1px solid var(--primary);
+    border-radius: 10px;
 }
 
 .contact {
